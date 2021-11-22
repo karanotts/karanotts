@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kara Nottingham
+- 👋 Hi, I’m Kara Nottingham (she/her).
 - 👀 I’m interested in turning coffee into code. Dabbling in automation, scripting, Python-ing and where ever mood takes me. 
 - 🌱 I’m currently learning Kubernetes.
 - 💞️ I’m looking to collaborate on Python and automation projects - I'm trying to improve my Python/Flask skills and venture into the exciting world of APIs.
