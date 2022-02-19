@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kara Nottingham (she/her).
+- 👋 Hi, I’m Kara Nottingham.
 - 👀 I’m interested in turning coffee into code. 
 - 🌱 I’m currently learning all things Kubernetes. 
 - 💞️ I’m looking to collaborate on Python and automation projects.
